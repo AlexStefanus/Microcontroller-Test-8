@@ -1,6 +1,6 @@
 # Microcontroller Testing Using iTCLab : 8
 
-#### Implementing PID (Proportional Integral Derivative) in iTCLab using Python Program with GUI
+#### With the same Arduino Program as Test-7, Implementing PID (Proportional Integral Derivative) in iTCLab using Python Program with GUI (Graphical User Interface)
 
 Output :
 ![{B1EA9164-E3C3-4BE1-8A5A-A67D5A7CBCB2}](https://github.com/user-attachments/assets/8d2dcb59-c671-4c11-89bc-ae1aeda897a1)
